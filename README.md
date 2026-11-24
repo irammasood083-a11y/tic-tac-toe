@@ -26,5 +26,3 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - style.css
 - script.js
 
-## Author
-Iram Masood
